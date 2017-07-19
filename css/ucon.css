@@ -1,0 +1,202 @@
+@charset "UTF-8";
+.ucon {
+  display: inline-block;
+  text-transform: none;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+  font-size: 16px;
+  font-kerning: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+  .ucon.ucon-face-grinning {
+    content: "😀"; }
+  .ucon.ucon-face-beaming {
+    content: "😁"; }
+  .ucon.ucon-face-joy-tears {
+    content: "😂"; }
+  .ucon.ucon-face-rolling {
+    content: "🤣"; }
+  .ucon.ucon-face-grinning-big-eyes {
+    content: "😃"; }
+  .ucon.ucon-face-grinning-smiling {
+    content: "😄"; }
+  .ucon.ucon-face-grinning-sweat {
+    content: "😅"; }
+  .ucon.ucon-face-grinning-squiting {
+    content: "😆"; }
+  .ucon.ucon-face-winking {
+    content: "😉"; }
+  .ucon.ucon-face-smiling-eyes {
+    content: "😊"; }
+  .ucon.ucon-face-savoring {
+    content: "😋"; }
+  .ucon.ucon-face-smiling-sunglasses {
+    content: "😎"; }
+  .ucon.ucon-face-heart-eye {
+    content: "😍"; }
+  .ucon.ucon-face-blowing-kiss {
+    content: "😘"; }
+  .ucon.ucon-face-kissing {
+    content: "😗"; }
+  .ucon.ucon-face-kissing-smiling-eye {
+    content: "😙"; }
+  .ucon.ucon-face-kissing-closed-eye {
+    content: "😚"; }
+  .ucon.ucon-face-smiling {
+    content: "☺"; }
+  .ucon.ucon-face-slighty-smiling {
+    content: "🙂"; }
+  .ucon.ucon-face-hugging {
+    content: "🤗"; }
+  .ucon.ucon-face-star-struck {
+    content: "🤩"; }
+  .ucon.ucon-face-thinking {
+    content: "🤔"; }
+  .ucon.ucon-face-raised-eyebrow {
+    content: "🤨"; }
+  .ucon.ucon-face-neutral {
+    content: "😐"; }
+  .ucon.ucon-face-expressionless {
+    content: "😑"; }
+  .ucon.ucon-face-without-mouth {
+    content: "😶"; }
+  .ucon.ucon-face-rolling-eyes {
+    content: "🙄"; }
+  .ucon.ucon-face-smirking {
+    content: "😏"; }
+  .ucon.ucon-face-persevering {
+    content: "😣"; }
+  .ucon.ucon-face-sad-relieved {
+    content: "😥"; }
+  .ucon.ucon-face-open-mouth {
+    content: "😮"; }
+  .ucon.ucon-face-zipper-mouth {
+    content: "🤐"; }
+  .ucon.ucon-face-hushed {
+    content: "😯"; }
+  .ucon.ucon-face-sleepy {
+    content: "😪"; }
+  .ucon.ucon-face-tired {
+    content: "😫"; }
+  .ucon.ucon-face-sleeping {
+    content: "😴"; }
+  .ucon.ucon-face-relivied {
+    content: "😌"; }
+  .ucon.ucon-face-tongue {
+    content: "😛"; }
+  .ucon.ucon-face-winking-tongue {
+    content: "😜"; }
+  .ucon.ucon-face-squinting-tongue {
+    content: "😝"; }
+  .ucon.ucon-face-drooling {
+    content: "🤤"; }
+  .ucon.ucon-face-unamused {
+    content: "😒"; }
+  .ucon.ucon-face-downcast-sweat {
+    content: "😓"; }
+  .ucon.ucon-face-pensive {
+    content: "😔"; }
+  .ucon.ucon-face-confused {
+    content: "😕"; }
+  .ucon.ucon-face-upside-down {
+    content: "🙃"; }
+  .ucon.ucon-face-money-mouth {
+    content: "🤑"; }
+  .ucon.ucon-face-astonished {
+    content: "😲"; }
+  .ucon.ucon-face-frowning {
+    content: "☹"; }
+  .ucon.ucon-face-slighty-frowning {
+    content: "🙁"; }
+  .ucon.ucon-face-confounded {
+    content: "😖"; }
+  .ucon.ucon-face-disappointed {
+    content: "😞"; }
+  .ucon.ucon-face-worried {
+    content: "😟"; }
+  .ucon.ucon-face-steam-from-nose {
+    content: "😤"; }
+  .ucon.ucon-face-crying {
+    content: "😢"; }
+  .ucon.ucon-face-loudly-crying {
+    content: "😭"; }
+  .ucon.ucon-face-frowning-open-mouse {
+    content: "😦"; }
+  .ucon.ucon-face-anguished {
+    content: "😧"; }
+  .ucon.ucon-face-fearful {
+    content: "😨"; }
+  .ucon.ucon-face-weary {
+    content: "😩"; }
+  .ucon.ucon-face-exploding-head {
+    content: "🤯"; }
+  .ucon.ucon-face-grimacing {
+    content: "😬"; }
+  .ucon.ucon-face-anxious-sweat {
+    content: "😰"; }
+  .ucon.ucon-face-screaming-fear {
+    content: "😱"; }
+  .ucon.ucon-face-flushed {
+    content: "😳"; }
+  .ucon.ucon-face-crazy {
+    content: "🤪"; }
+  .ucon.ucon-face-dizzy {
+    content: "😵"; }
+  .ucon.ucon-face-pouting {
+    content: "😡"; }
+  .ucon.ucon-face-angry {
+    content: "😠"; }
+  .ucon.ucon-face-symbols-mouth {
+    content: "🤬"; }
+  .ucon.ucon-face-medical-mask {
+    content: "😷"; }
+  .ucon.ucon-face-thermometer {
+    content: "🤒"; }
+  .ucon.ucon-face-head-bandage {
+    content: "🤕"; }
+  .ucon.ucon-face-nauseated {
+    content: "🤢"; }
+  .ucon.ucon-face-vomiting {
+    content: "🤮"; }
+  .ucon.ucon-face-sneezing {
+    content: "🤧"; }
+  .ucon.ucon-face-smiling-halo {
+    content: "😇"; }
+  .ucon.ucon-face-cowboy-hat {
+    content: "🤠"; }
+  .ucon.ucon-face-clown {
+    content: "🤡"; }
+  .ucon.ucon-face-lying {
+    content: "🤥"; }
+  .ucon.ucon-face-shushing {
+    content: "🤫"; }
+  .ucon.ucon-face-hand-over-mouth {
+    content: "🤭"; }
+  .ucon.ucon-face-monocle {
+    content: "🧐"; }
+  .ucon.ucon-face-nerd {
+    content: "🤓"; }
+  .ucon.ucon-face-smiling-horns {
+    content: "😈"; }
+  .ucon.ucon-face-angry-horns {
+    content: "👿"; }
+  .ucon.ucon-face-ogre {
+    content: "👹"; }
+  .ucon.ucon-face-goblin {
+    content: "👺"; }
+  .ucon.ucon-face-skull {
+    content: "💀"; }
+  .ucon.ucon-face-skull-crossbones {
+    content: "☠"; }
+  .ucon.ucon-face-ghost {
+    content: "👻"; }
+  .ucon.ucon-face-alien {
+    content: "👽"; }
+  .ucon.ucon-face-alien-monster {
+    content: "👾"; }
+  .ucon.ucon-face-robot {
+    content: "🤖"; }
+  .ucon.ucon-face-poo {
+    content: "💩"; }

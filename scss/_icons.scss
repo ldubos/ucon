@@ -1,0 +1,21 @@
+.#{$ucon-css-prefix} {
+  display: inline-block;
+  text-transform: none;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: normal;
+  font-size: $ucon-font-size-base;
+
+  font-kerning: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  @each $prefix, $icons in $ucon-icons {
+    @each $name, $content in $icons {
+      &.#{$ucon-css-prefix}-#{$prefix}-#{$name} {
+        content: $content;
+      }
+    }
+  }
+}
