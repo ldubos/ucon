@@ -1,0 +1,35 @@
+{
+  "name": "ucon.css",
+  "version": "1.0.0",
+  "description": "Ucon is an icon library based on Unicode CLDR data",
+  "scripts": {
+    "sass": "node-sass scss -o css",
+    "sass:watch": "node-sass scss -o css -w"
+  },
+  "files": [
+    "css",
+    "scss",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldubos/ucon.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "icons",
+    "minimal"
+  ],
+  "author": {
+    "name": "Ludwig DUBOS",
+    "email": "ludwig.dubos@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldubos/ucon/issues"
+  },
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  }
+}
