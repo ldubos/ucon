@@ -13,7 +13,7 @@
 
   @each $prefix, $icons in $ucon-icons {
     @each $name, $content in $icons {
-      &.#{$ucon-css-prefix}-#{$prefix}-#{$name} {
+      &.#{$ucon-css-prefix}-#{$prefix}-#{$name}::before {
         content: $content;
       }
     }

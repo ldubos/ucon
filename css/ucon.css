@@ -10,193 +10,337 @@
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
-  .ucon.ucon-face-grinning {
+  .ucon.ucon-face-grinning::before {
     content: "😀"; }
-  .ucon.ucon-face-beaming {
+  .ucon.ucon-face-beaming::before {
     content: "😁"; }
-  .ucon.ucon-face-joy-tears {
+  .ucon.ucon-face-joy-tears::before {
     content: "😂"; }
-  .ucon.ucon-face-rolling {
+  .ucon.ucon-face-rolling::before {
     content: "🤣"; }
-  .ucon.ucon-face-grinning-big-eyes {
+  .ucon.ucon-face-grinning-big-eyes::before {
     content: "😃"; }
-  .ucon.ucon-face-grinning-smiling {
+  .ucon.ucon-face-grinning-smiling::before {
     content: "😄"; }
-  .ucon.ucon-face-grinning-sweat {
+  .ucon.ucon-face-grinning-sweat::before {
     content: "😅"; }
-  .ucon.ucon-face-grinning-squiting {
+  .ucon.ucon-face-grinning-squiting::before {
     content: "😆"; }
-  .ucon.ucon-face-winking {
+  .ucon.ucon-face-winking::before {
     content: "😉"; }
-  .ucon.ucon-face-smiling-eyes {
+  .ucon.ucon-face-smiling-eyes::before {
     content: "😊"; }
-  .ucon.ucon-face-savoring {
+  .ucon.ucon-face-savoring::before {
     content: "😋"; }
-  .ucon.ucon-face-smiling-sunglasses {
+  .ucon.ucon-face-smiling-sunglasses::before {
     content: "😎"; }
-  .ucon.ucon-face-heart-eye {
+  .ucon.ucon-face-heart-eye::before {
     content: "😍"; }
-  .ucon.ucon-face-blowing-kiss {
+  .ucon.ucon-face-blowing-kiss::before {
     content: "😘"; }
-  .ucon.ucon-face-kissing {
+  .ucon.ucon-face-kissing::before {
     content: "😗"; }
-  .ucon.ucon-face-kissing-smiling-eye {
+  .ucon.ucon-face-kissing-smiling-eye::before {
     content: "😙"; }
-  .ucon.ucon-face-kissing-closed-eye {
+  .ucon.ucon-face-kissing-closed-eye::before {
     content: "😚"; }
-  .ucon.ucon-face-smiling {
+  .ucon.ucon-face-smiling::before {
     content: "☺"; }
-  .ucon.ucon-face-slighty-smiling {
+  .ucon.ucon-face-slighty-smiling::before {
     content: "🙂"; }
-  .ucon.ucon-face-hugging {
+  .ucon.ucon-face-hugging::before {
     content: "🤗"; }
-  .ucon.ucon-face-star-struck {
+  .ucon.ucon-face-star-struck::before {
     content: "🤩"; }
-  .ucon.ucon-face-thinking {
+  .ucon.ucon-face-thinking::before {
     content: "🤔"; }
-  .ucon.ucon-face-raised-eyebrow {
+  .ucon.ucon-face-raised-eyebrow::before {
     content: "🤨"; }
-  .ucon.ucon-face-neutral {
+  .ucon.ucon-face-neutral::before {
     content: "😐"; }
-  .ucon.ucon-face-expressionless {
+  .ucon.ucon-face-expressionless::before {
     content: "😑"; }
-  .ucon.ucon-face-without-mouth {
+  .ucon.ucon-face-without-mouth::before {
     content: "😶"; }
-  .ucon.ucon-face-rolling-eyes {
+  .ucon.ucon-face-rolling-eyes::before {
     content: "🙄"; }
-  .ucon.ucon-face-smirking {
+  .ucon.ucon-face-smirking::before {
     content: "😏"; }
-  .ucon.ucon-face-persevering {
+  .ucon.ucon-face-persevering::before {
     content: "😣"; }
-  .ucon.ucon-face-sad-relieved {
+  .ucon.ucon-face-sad-relieved::before {
     content: "😥"; }
-  .ucon.ucon-face-open-mouth {
+  .ucon.ucon-face-open-mouth::before {
     content: "😮"; }
-  .ucon.ucon-face-zipper-mouth {
+  .ucon.ucon-face-zipper-mouth::before {
     content: "🤐"; }
-  .ucon.ucon-face-hushed {
+  .ucon.ucon-face-hushed::before {
     content: "😯"; }
-  .ucon.ucon-face-sleepy {
+  .ucon.ucon-face-sleepy::before {
     content: "😪"; }
-  .ucon.ucon-face-tired {
+  .ucon.ucon-face-tired::before {
     content: "😫"; }
-  .ucon.ucon-face-sleeping {
+  .ucon.ucon-face-sleeping::before {
     content: "😴"; }
-  .ucon.ucon-face-relivied {
+  .ucon.ucon-face-relivied::before {
     content: "😌"; }
-  .ucon.ucon-face-tongue {
+  .ucon.ucon-face-tongue::before {
     content: "😛"; }
-  .ucon.ucon-face-winking-tongue {
+  .ucon.ucon-face-winking-tongue::before {
     content: "😜"; }
-  .ucon.ucon-face-squinting-tongue {
+  .ucon.ucon-face-squinting-tongue::before {
     content: "😝"; }
-  .ucon.ucon-face-drooling {
+  .ucon.ucon-face-drooling::before {
     content: "🤤"; }
-  .ucon.ucon-face-unamused {
+  .ucon.ucon-face-unamused::before {
     content: "😒"; }
-  .ucon.ucon-face-downcast-sweat {
+  .ucon.ucon-face-downcast-sweat::before {
     content: "😓"; }
-  .ucon.ucon-face-pensive {
+  .ucon.ucon-face-pensive::before {
     content: "😔"; }
-  .ucon.ucon-face-confused {
+  .ucon.ucon-face-confused::before {
     content: "😕"; }
-  .ucon.ucon-face-upside-down {
+  .ucon.ucon-face-upside-down::before {
     content: "🙃"; }
-  .ucon.ucon-face-money-mouth {
+  .ucon.ucon-face-money-mouth::before {
     content: "🤑"; }
-  .ucon.ucon-face-astonished {
+  .ucon.ucon-face-astonished::before {
     content: "😲"; }
-  .ucon.ucon-face-frowning {
+  .ucon.ucon-face-frowning::before {
     content: "☹"; }
-  .ucon.ucon-face-slighty-frowning {
+  .ucon.ucon-face-slighty-frowning::before {
     content: "🙁"; }
-  .ucon.ucon-face-confounded {
+  .ucon.ucon-face-confounded::before {
     content: "😖"; }
-  .ucon.ucon-face-disappointed {
+  .ucon.ucon-face-disappointed::before {
     content: "😞"; }
-  .ucon.ucon-face-worried {
+  .ucon.ucon-face-worried::before {
     content: "😟"; }
-  .ucon.ucon-face-steam-from-nose {
+  .ucon.ucon-face-steam-from-nose::before {
     content: "😤"; }
-  .ucon.ucon-face-crying {
+  .ucon.ucon-face-crying::before {
     content: "😢"; }
-  .ucon.ucon-face-loudly-crying {
+  .ucon.ucon-face-loudly-crying::before {
     content: "😭"; }
-  .ucon.ucon-face-frowning-open-mouse {
+  .ucon.ucon-face-frowning-open-mouse::before {
     content: "😦"; }
-  .ucon.ucon-face-anguished {
+  .ucon.ucon-face-anguished::before {
     content: "😧"; }
-  .ucon.ucon-face-fearful {
+  .ucon.ucon-face-fearful::before {
     content: "😨"; }
-  .ucon.ucon-face-weary {
+  .ucon.ucon-face-weary::before {
     content: "😩"; }
-  .ucon.ucon-face-exploding-head {
+  .ucon.ucon-face-exploding-head::before {
     content: "🤯"; }
-  .ucon.ucon-face-grimacing {
+  .ucon.ucon-face-grimacing::before {
     content: "😬"; }
-  .ucon.ucon-face-anxious-sweat {
+  .ucon.ucon-face-anxious-sweat::before {
     content: "😰"; }
-  .ucon.ucon-face-screaming-fear {
+  .ucon.ucon-face-screaming-fear::before {
     content: "😱"; }
-  .ucon.ucon-face-flushed {
+  .ucon.ucon-face-flushed::before {
     content: "😳"; }
-  .ucon.ucon-face-crazy {
+  .ucon.ucon-face-crazy::before {
     content: "🤪"; }
-  .ucon.ucon-face-dizzy {
+  .ucon.ucon-face-dizzy::before {
     content: "😵"; }
-  .ucon.ucon-face-pouting {
+  .ucon.ucon-face-pouting::before {
     content: "😡"; }
-  .ucon.ucon-face-angry {
+  .ucon.ucon-face-angry::before {
     content: "😠"; }
-  .ucon.ucon-face-symbols-mouth {
+  .ucon.ucon-face-symbols-mouth::before {
     content: "🤬"; }
-  .ucon.ucon-face-medical-mask {
+  .ucon.ucon-face-medical-mask::before {
     content: "😷"; }
-  .ucon.ucon-face-thermometer {
+  .ucon.ucon-face-thermometer::before {
     content: "🤒"; }
-  .ucon.ucon-face-head-bandage {
+  .ucon.ucon-face-head-bandage::before {
     content: "🤕"; }
-  .ucon.ucon-face-nauseated {
+  .ucon.ucon-face-nauseated::before {
     content: "🤢"; }
-  .ucon.ucon-face-vomiting {
+  .ucon.ucon-face-vomiting::before {
     content: "🤮"; }
-  .ucon.ucon-face-sneezing {
+  .ucon.ucon-face-sneezing::before {
     content: "🤧"; }
-  .ucon.ucon-face-smiling-halo {
+  .ucon.ucon-face-smiling-halo::before {
     content: "😇"; }
-  .ucon.ucon-face-cowboy-hat {
+  .ucon.ucon-face-cowboy-hat::before {
     content: "🤠"; }
-  .ucon.ucon-face-clown {
+  .ucon.ucon-face-clown::before {
     content: "🤡"; }
-  .ucon.ucon-face-lying {
+  .ucon.ucon-face-lying::before {
     content: "🤥"; }
-  .ucon.ucon-face-shushing {
+  .ucon.ucon-face-shushing::before {
     content: "🤫"; }
-  .ucon.ucon-face-hand-over-mouth {
+  .ucon.ucon-face-hand-over-mouth::before {
     content: "🤭"; }
-  .ucon.ucon-face-monocle {
+  .ucon.ucon-face-monocle::before {
     content: "🧐"; }
-  .ucon.ucon-face-nerd {
+  .ucon.ucon-face-nerd::before {
     content: "🤓"; }
-  .ucon.ucon-face-smiling-horns {
+  .ucon.ucon-face-smiling-horns::before {
     content: "😈"; }
-  .ucon.ucon-face-angry-horns {
+  .ucon.ucon-face-angry-horns::before {
     content: "👿"; }
-  .ucon.ucon-face-ogre {
+  .ucon.ucon-face-ogre::before {
     content: "👹"; }
-  .ucon.ucon-face-goblin {
+  .ucon.ucon-face-goblin::before {
     content: "👺"; }
-  .ucon.ucon-face-skull {
+  .ucon.ucon-face-skull::before {
     content: "💀"; }
-  .ucon.ucon-face-skull-crossbones {
+  .ucon.ucon-face-skull-crossbones::before {
     content: "☠"; }
-  .ucon.ucon-face-ghost {
+  .ucon.ucon-face-ghost::before {
     content: "👻"; }
-  .ucon.ucon-face-alien {
+  .ucon.ucon-face-alien::before {
     content: "👽"; }
-  .ucon.ucon-face-alien-monster {
+  .ucon.ucon-face-alien-monster::before {
     content: "👾"; }
-  .ucon.ucon-face-robot {
+  .ucon.ucon-face-robot::before {
     content: "🤖"; }
-  .ucon.ucon-face-poo {
+  .ucon.ucon-face-poo::before {
     content: "💩"; }
+  .ucon.ucon-cat-face-grinning::before {
+    content: "😺"; }
+  .ucon.ucon-cat-face-grinning-smiling-eyes::before {
+    content: "😸"; }
+  .ucon.ucon-cat-face-tears-joy::before {
+    content: "😹"; }
+  .ucon.ucon-cat-face-smiling-heart-eyes::before {
+    content: "😻"; }
+  .ucon.ucon-cat-face-wry-smile::before {
+    content: "😼"; }
+  .ucon.ucon-cat-face-kissing::before {
+    content: "😽"; }
+  .ucon.ucon-cat-face-weary::before {
+    content: "🙀"; }
+  .ucon.ucon-cat-face-crying::before {
+    content: "😿"; }
+  .ucon.ucon-cat-face-pouting::before {
+    content: "😾"; }
+  .ucon.ucon-monkey-face-no-see::before {
+    content: "🙈"; }
+  .ucon.ucon-monkey-face-no-hear::before {
+    content: "🙉"; }
+  .ucon.ucon-monkey-face-no-speak::before {
+    content: "🙊"; }
+  .ucon.ucon-person-baby::before {
+    content: "👶"; }
+  .ucon.ucon-person-baby-skin-light::before {
+    content: "👶🏻"; }
+  .ucon.ucon-person-baby-skin-light-tone::before {
+    content: "👶🏼"; }
+  .ucon.ucon-person-baby-skin-tone::before {
+    content: "👶🏽"; }
+  .ucon.ucon-person-baby-skin-dark-tone::before {
+    content: "👶🏾"; }
+  .ucon.ucon-person-baby-skin-dark::before {
+    content: "👶🏿"; }
+  .ucon.ucon-person-child::before {
+    content: "🧒"; }
+  .ucon.ucon-person-child-skin-light::before {
+    content: "🧒🏻"; }
+  .ucon.ucon-person-child-skin-light-tone::before {
+    content: "🧒🏼"; }
+  .ucon.ucon-person-child-skin-tone::before {
+    content: "🧒🏽"; }
+  .ucon.ucon-person-child-skin-dark-tone::before {
+    content: "🧒🏾"; }
+  .ucon.ucon-person-child-skin-dark::before {
+    content: "🧒🏿"; }
+  .ucon.ucon-person-boy::before {
+    content: "👦"; }
+  .ucon.ucon-person-boy-skin-light::before {
+    content: "👦🏻"; }
+  .ucon.ucon-person-boy-skin-light-tone::before {
+    content: "👦🏼"; }
+  .ucon.ucon-person-boy-skin-tone::before {
+    content: "👦🏽"; }
+  .ucon.ucon-person-boy-skin-dark-tone::before {
+    content: "👦🏾"; }
+  .ucon.ucon-person-boy-skin-dark::before {
+    content: "👦🏿"; }
+  .ucon.ucon-person-girl::before {
+    content: "👧"; }
+  .ucon.ucon-person-girl-skin-light::before {
+    content: "👧🏻"; }
+  .ucon.ucon-person-girl-skin-light-tone::before {
+    content: "👧🏼"; }
+  .ucon.ucon-person-girl-skin-tone::before {
+    content: "👧🏽"; }
+  .ucon.ucon-person-girl-skin-dark-tone::before {
+    content: "👧🏾"; }
+  .ucon.ucon-person-girl-skin-dark::before {
+    content: "👧🏿"; }
+  .ucon.ucon-person-adult::before {
+    content: "🧑"; }
+  .ucon.ucon-person-adult-skin-light::before {
+    content: "🧑🏻"; }
+  .ucon.ucon-person-adult-skin-light-tone::before {
+    content: "🧑🏼"; }
+  .ucon.ucon-person-adult-skin-tone::before {
+    content: "🧑🏽"; }
+  .ucon.ucon-person-adult-skin-dark-tone::before {
+    content: "🧑🏾"; }
+  .ucon.ucon-person-adult-skin-dark::before {
+    content: "🧑🏿"; }
+  .ucon.ucon-person-man::before {
+    content: "👨"; }
+  .ucon.ucon-person-man-skin-light::before {
+    content: "👨🏻"; }
+  .ucon.ucon-person-man-skin-light-tone::before {
+    content: "👨🏼"; }
+  .ucon.ucon-person-man-skin-tone::before {
+    content: "👨🏽"; }
+  .ucon.ucon-person-man-skin-dark-tone::before {
+    content: "👨🏾"; }
+  .ucon.ucon-person-man-skin-dark::before {
+    content: "👨🏿"; }
+  .ucon.ucon-person-woman::before {
+    content: "👩"; }
+  .ucon.ucon-person-woman-skin-light::before {
+    content: "👩🏻"; }
+  .ucon.ucon-person-woman-skin-light-tone::before {
+    content: "👩🏼"; }
+  .ucon.ucon-person-woman-skin-tone::before {
+    content: "👩🏽"; }
+  .ucon.ucon-person-woman-skin-dark-tone::before {
+    content: "👩🏾"; }
+  .ucon.ucon-person-woman-skin-dark::before {
+    content: "👩🏿"; }
+  .ucon.ucon-person-older::before {
+    content: "🧓"; }
+  .ucon.ucon-person-older-skin-light::before {
+    content: "🧓🏻"; }
+  .ucon.ucon-person-older-skin-light-tone::before {
+    content: "🧓🏼"; }
+  .ucon.ucon-person-older-skin-tone::before {
+    content: "🧓🏽"; }
+  .ucon.ucon-person-older-skin-dark-tone::before {
+    content: "🧓🏾"; }
+  .ucon.ucon-person-older-skin-dark::before {
+    content: "🧓🏿"; }
+  .ucon.ucon-person-old-man::before {
+    content: "👴"; }
+  .ucon.ucon-person-old-man-skin-light::before {
+    content: "👴🏻"; }
+  .ucon.ucon-person-old-man-skin-light-tone::before {
+    content: "👴🏼"; }
+  .ucon.ucon-person-old-man-skin-tone::before {
+    content: "👴🏽"; }
+  .ucon.ucon-person-old-man-skin-dark-tone::before {
+    content: "👴🏾"; }
+  .ucon.ucon-person-old-man-skin-dark::before {
+    content: "👴🏿"; }
+  .ucon.ucon-person-old-woman::before {
+    content: "👵"; }
+  .ucon.ucon-person-old-woman-skin-light::before {
+    content: "👵🏻"; }
+  .ucon.ucon-person-old-woman-skin-light-tone::before {
+    content: "👵🏼"; }
+  .ucon.ucon-person-old-woman-skin-tone::before {
+    content: "👵🏽"; }
+  .ucon.ucon-person-old-woman-skin-dark-tone::before {
+    content: "👵🏾"; }
+  .ucon.ucon-person-old-woman-skin-dark::before {
+    content: "👵🏿"; }
